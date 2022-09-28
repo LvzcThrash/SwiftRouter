@@ -1,0 +1,4 @@
+# 忽略example pods相关目录
+Example/Pods
+Example/Podfile.lock
+Example/SwiftRouter.xcworkspace
